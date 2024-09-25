@@ -8,17 +8,17 @@ redirect_from:
 ---
 {% include base_path %}
 
-* University of Michigan, Ann Arbor, United States Feb, 2024 - Aug, 2024
+* University of Michigan, Ann Arbor, United States, Feb, 2024 - Aug, 2024
 
   Visiting Student, Department of Civil and Environmental Engineering
 
   Supervisor: Prof. Yafeng Yin
 
-* University College London, London, United Kingdom 2019
+* University College London, London, United Kingdom, July, 2019 - Oct, 2019
 
   Visiting Student, Department of Civil, Environmental and Geomatic Engineering
 
-  Supervisor: Dr. Taku Fujiyama
+  Supervisor: Prof. Taku Fujiyama
 
 
 ## Selected Awards
@@ -38,6 +38,7 @@ redirect_from:
 ## Academic & Professional Services
 
 * Fellow/Board Member
+  
   – Student Fellow, Institute of Transport Studies, The University of Hong Kong
 
   – Student Member, Chinese Overseas Transportation Association
