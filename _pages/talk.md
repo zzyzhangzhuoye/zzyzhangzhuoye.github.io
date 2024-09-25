@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 
 [10] **Zhang, Z.**, Zhang, F., Liu, W. (2024) To park or to share your autonomous vehicle? The 5th Frontier
-Symposium on Traffic Behavior and Transportation Science (TBTS), Yichang, China, 2–5 August,
-2024. (Recipient of TBTS 2024 Best Paper Award)
+Symposium on Traffic Behavior and Transportation Science (TBTS), Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award)**
 
 [9] **Zhang, Z.**, Zhang, F. (2024) Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. The 25th International Symposium on
@@ -26,7 +25,7 @@ Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 11-12 December 
 
 [6] **Zhang, Z.**, Zhang, F., Liu, W. (2023) Modeling the vehicle parking, charging and vehicle-to-grid services
 in the era of electric vehicles. The 14th Workshop on Computational Transportation Science (CTS),
-Shanghai, China, 11-14 August 2023. (Recipient of CTS 2023 Best paper award)
+Shanghai, China, 11-14 August 2023. **(Recipient of CTS 2023 Best paper award)**
 
 [5] **Zhang, Z.**, Zhang, F. (2023) The three-sided market of shared parking: The operation and market
 equilibrium in the presence of differentiated parking supplies. The 14th Workshop on Computational
