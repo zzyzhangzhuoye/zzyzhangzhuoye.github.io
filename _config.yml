@@ -24,9 +24,11 @@ author:
   avatar           : "ZhangZhuoye.jpg"
   name             : "Zhuoye Zhang"
   pronouns         : # example: "she/her"  
-  bio              : - "Post-doctoral Fellow,"
-  - "Industrial and Manufacturing Systems Engineering,"
-  - "The University of Hong Kong"
+  bio              : "Post-doctoral Fellow,"
+  
+  "Industrial and Manufacturing Systems Engineering,"
+  
+  "The University of Hong Kong"
   location         : "Hong Kong"
   employer         : #"The University of Hong Kong"
   uri              : # URL
