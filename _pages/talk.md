@@ -8,8 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-[10] **Zhang, Z.**, Zhang, F., Liu, W. (2024) To park or to share your autonomous vehicle? The 5th Frontier
-Symposium on Traffic Behavior and Transportation Science (TBTS), Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award)**
+[10] **Zhang, Z.**, Zhang, F., Liu, W. (2024) To park or to share your autonomous vehicle? <u>The 5th Frontier
+Symposium on Traffic Behavior and Transportation Science (TBTS)</u>, Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award)**
 
 [9] **Zhang, Z.**, Zhang, F. (2024) Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. The 25th International Symposium on
