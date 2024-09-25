@@ -1,28 +1,46 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Zhuoye Zhang is a Post-doctoral Fellow at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Dr. Zhang received his PhD degree in Transportation from University of Hong Kong, Master's degree from Shanghai Jiaotong University, and Bachelor’s degree from Tongji University, China. Dr. Zhuoye Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including shared and automated transport management, multimodal transportation system modelling and optimization and network modeling and analysis. His research has been published in world-leading journals and conferences in the field, e.g., Transportation Research Part B/C, International Symposium of Transportation and Traffic Theory (ISTTT). He also servse as a visiting student in University College London in 2019 and University of Michigan in 2024, respecitvely. 
 
-A data-driven personal website
+
+Research interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+-Shared transport and logistics systems
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+-Transport network modeling and optimization
 
-Getting started
+-Transport economics
+
+-Transport/urban data analytics
+
+
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[1] Zhang, Z., Zhang, F.* (2024) Optimal operation strategies of an urban crowdshipping platform in
+asset-light, asset-medium, or asset-heavy business format. Transportation Research Part B: Methodological,
+102992. (Accepted to be presented in the 25th International Symposium on Transportation
+and Traffic Theory, ISTTT25).
+
+[2] Zhang, Z., Liu, W., Zhang, F.* (2023) On the joint network equilibrium of parking and travel
+choices under mixed traffic of shared and private autonomous vehicles. Transportation Research Part
+C: Emerging Technologies, 153, 104226. (Recipient of Qian Xuesen Urban Science Gold Award (Transportation)
+Nomination Award)
+
+[3] Zhang, Z., Zhang, F.* (2022) Ride-pooling services with differentiated pooling sizes under endogenous
+congestion effect. Transportation Research Part C: Emerging Technologies, 144, 103883.
+
+[4] Zhang, Z., Lu. L.*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
+decision making in the biobjective alignment optimization problem of river-crossing tunnels. Journal
+of Transportation Engineering, Part A: Systems, 146(10), 04020121.
+
 
 Site-wide configuration
 ------
