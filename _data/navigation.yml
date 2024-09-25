@@ -11,8 +11,8 @@ main:
   - title: "Talks and Conferences"
     url: /markdown/
 
-  - title: "Research experiences"
-    url: /year-archive/
+   #- title: "Research experiences"
+    # url: /year-archive/
     
   #- title: "Portfolio"
   #  url: /portfolio/
