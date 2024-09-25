@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Zhuoye Zhang is a Post-doctoral Fellow at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Dr. Zhang received his PhD degree in Transportation from University of Hong Kong, Master's degree from Shanghai Jiaotong University, and Bachelor’s degree from Tongji University, China. Dr. Zhuoye Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including shared and automated transport management, multimodal transportation system modelling and optimization and network modeling and analysis. His research has been published in world-leading journals and conferences in the field, e.g., Transportation Research Part B/C, International Symposium of Transportation and Traffic Theory (ISTTT). He also servse as a visiting student in University College London in 2019 and University of Michigan in 2024, respecitvely. 
+Dr. Zhuoye Zhang is a Post-doctoral Fellow at the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong. Dr. Zhuoye Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including shared and automated transport management, multimodal transportation system modelling and optimization and network modeling and analysis. His research has been published in world-leading journals and conferences in the field, e.g., Transportation Research Part B/C, International Symposium of Transportation and Traffic Theory (ISTTT). He also servse as a visiting student in University College London in 2019 and University of Michigan in 2024, respecitvely. 
 
 
 Education
