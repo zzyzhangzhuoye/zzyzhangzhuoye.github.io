@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
+Journal Publications
 ======
 [1] **Zhang, Z.**, Zhang, F.* (2024) Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. Transportation Research Part B: Methodological,
