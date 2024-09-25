@@ -14,6 +14,7 @@ Education
 ======
 
 * The University of Hong Kong, Hong Kong, China 2020 - 2024
+
   Ph.D. in Transportation Systems Engineering, Department of Industrial and Manufacturing Systems Engineering
 
 * Shanghai Jiao Tong University, Shanghai, China 2016 - 2019
