@@ -22,7 +22,7 @@ C: Emerging Technologies</u>*, 153, 104226.
 congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883.
 
 [1] **Zhang, Z.**, Lu. L.*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
-decision making in the biobjective alignment optimization problem of river-crossing tunnels. *<u>Journal
+decision making in the biobjective alignment optimization problem of river-crossing tunnels. <u>*Journal
 of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 
