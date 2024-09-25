@@ -13,19 +13,19 @@ Dr. Zhuoye Zhang is a Post-doctoral Fellow at the Department of Industrial and M
 Education
 ======
 
-The University of Hong Kong, Hong Kong, China 2020 - 2024
+* The University of Hong Kong, Hong Kong, China 2020 - 2024
 
 Ph.D. in Transportation Systems Engineering, 
 
 Department of Industrial and Manufacturing Systems Engineering
 
-Shanghai Jiao Tong University, Shanghai, China 2016 - 2019
+* Shanghai Jiao Tong University, Shanghai, China 2016 - 2019
 
 M.Phil. in Transportation Systems Engineering, 
 
 School of Naval Architecture, Ocean and Civil Engineering
 
-Tongji University, Shanghai, China 2012 - 2016
+* Tongji University, Shanghai, China 2012 - 2016
 
 B.Eng. in Transportation Engineering, 
 
@@ -34,13 +34,13 @@ College of Transportation Engineering
 
 Research interests
 ======
-  -Shared transport and logistics systems
+  * Shared transport and logistics systems
 
-  -Transport network modeling and optimization
+  * Transport network modeling and optimization
 
-  -Transport economics
+  * Transport economics
 
-  -Transport/urban data analytics
+  * Transport/urban data analytics
 
 
 
