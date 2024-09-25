@@ -6,13 +6,13 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+     url: /cv/   
 
   - title: "Talks and Conferences"
-    url: /cv/   
+    url: /markdown/
 
   - title: "Research experiences"
-    url: /markdown/
+    url: /Researchexperience/
     
   #- title: "Portfolio"
   #  url: /portfolio/
