@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Selected Awards
-* *<u>Outstanding Ph.D. Thesis</u>*, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, 2024. (Top 5\%)
+* *<u>Outstanding Ph.D. Thesis</u>*, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, 2024. (Top 5%)
 
 * *<u>Best Paper Award</u>*: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China, 2024.
 
