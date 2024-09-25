@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /talk/
+permalink: /conferences/
 author_profile: true
 redirect_from:
   - /resume
