@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Conferences"
 permalink: /conferences/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-Conferences
-======
 [10] **Zhang, Z.**, Zhang, F., Liu, W. (2024) To park or to share your autonomous vehicle? The 5th Frontier
 Symposium on Traffic Behavior and Transportation Science (TBTS), Yichang, China, 2–5 August,
 2024. (Recipient of TBTS 2024 Best Paper Award)
