@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Visiting experience"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 {% include base_path %}
-## Visiting experience
+
 University of Michigan, Ann Arbor, United States Feb, 2024 - Aug, 2024
 
 Visiting Student, Department of Civil and Environmental Engineering
