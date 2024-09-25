@@ -8,20 +8,20 @@ main:
  # - title: "Publications"
  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "Publications"
     url: /cv/
+
+  - title: "Talks and Conferences"
+    url: /talks/    
+
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Guide"
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+   # url: /year-archive/
+    
+  - title: "Experience"
     url: /markdown/
