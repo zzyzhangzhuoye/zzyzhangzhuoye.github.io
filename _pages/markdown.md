@@ -35,7 +35,7 @@ Supervisor: Dr. Taku Fujiyama
 
 • Second Prize in Tongji Mathematical Contest in Modeling. (Top 10%) 2015
 
-## ACADEMIC & PROFESSIONAL SERVICES
+## Academic & Professional Services
 
 Fellow/Board Member
 – Student Fellow, Institute of Transport Studies, The University of Hong Kong
