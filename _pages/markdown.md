@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Visiting experience"
+title: "Visiting Experience"
 author_profile: true
 redirect_from: 
   - /md/
@@ -21,7 +21,7 @@ Visiting Student, Department of Civil, Environmental and Geomatic Engineering
 Supervisor: Dr. Taku Fujiyama
 
 
-## Selected awards
+## Selected Awards
 
 • Best Paper Award: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China. 2024
 
@@ -39,10 +39,13 @@ Supervisor: Dr. Taku Fujiyama
 
 Fellow/Board Member
 – Student Fellow, Institute of Transport Studies, The University of Hong Kong
+
 – Student Member, Chinese Overseas Transportation Association
 
 • Journal Paper Reviewer
+
 – Reviewer of Transportation Research Part E, Cities, Transportation Safety and Environment
 
 • Conference Reviewer
+
 – International Conference of Hong Kong Society for Transportation Studies (HKSTS), International Conference of Transportation Professionals (CICTP), International Symposium on Transport Network Resilience (INSTR)
