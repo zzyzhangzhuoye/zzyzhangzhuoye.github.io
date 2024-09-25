@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Talks and Conferences"
-    url: /talks/    
+    url: /cv/   
 
   - title: "Research experiences"
-    url: /teaching/    
+    url: /markdown/
     
   #- title: "Portfolio"
   #  url: /portfolio/
