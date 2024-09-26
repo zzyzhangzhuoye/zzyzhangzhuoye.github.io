@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Selected Awards
-* *<u>Outstanding Ph.D. Thesis</u>*, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, 2024. (Top 5%)
+* *<u>Outstanding Ph.D. Thesis</u>*, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, 2024. 
 
 * *<u>Best Paper Award</u>*: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China, 2024.
 
@@ -32,9 +32,9 @@ redirect_from:
 
 * *<u>Postgraduate Scholarship</u>* for four consecutive years, The University of Hong Kong, 2020-2024. 
 
-* *<u>Third Prize</u>*: Chinese Post-Graduate Mathematical Contest, 2017. (Top 30%)
+* *<u>Third Prize</u>*: Chinese Post-Graduate Mathematical Contest, 2017. 
 
-* *<u>Second Prize</u>*: Tongji Mathematical Contest in Modeling, 2015. (Top 10%) 
+* *<u>Second Prize</u>*: Tongji Mathematical Contest in Modeling, 2015. 
 
 ## Academic & Professional Services
 
