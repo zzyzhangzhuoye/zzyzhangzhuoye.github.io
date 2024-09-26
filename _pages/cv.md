@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=5PQtFDIAAAAJ&hl=zh-CN&oi=ao), [Scopus](https://www-scopus-com.eproxy.lib.hku.hk/authid/detail.uri?authorId=57407113300), [Web of Science](https://www.webofscience.com/wos/author/record/LIC-6662-2024), or [ResearchGate](https://www.researchgate.net/profile/Zhuoye-Zhang).
+
 Journal Publications
 ======
 [4] **Zhang, Z.**, Zhang, F.* (2024) Optimal operation strategies of an urban crowdshipping platform in
