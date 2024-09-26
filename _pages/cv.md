@@ -40,7 +40,7 @@ Research Part B: Methodological</u>*, under first-round revision.
 [4] **Zhang, Z.**, Zhang, F., Liu, W.*, Yang, H. On the service differentiation for parking sharing. Submitted
 to <u>Transportation Research Part C: Emerging Technologies</u>*, under first-round revision.
 
-[3] **Zhang, Z.**, Lin, J., Zhang, F.* The emergence of rideshare buddy-pooling platform: dynamic user
+[3] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.* The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. To be submitted to *<u>Transportation Research Part C: Emerging
 Technologies</u>*.
 
