@@ -15,18 +15,18 @@ Education
 
 * The University of Hong Kong, Hong Kong, China, 2020-2024
 
-  Ph.D. in Transportation Systems Engineering, Department of Industrial and Manufacturing Systems Engineering
+  Ph.D. in Transportation Engineering, Department of Industrial and Manufacturing Systems Engineering
 
 * Shanghai Jiao Tong University, Shanghai, China
 
-  M.Phil. in Transportation Systems Engineering, School of Naval Architecture, Ocean and Civil Engineering
+  M.Phil. in Transportation Engineering, School of Naval Architecture, Ocean and Civil Engineering
 
 * Tongji University, Shanghai, China
 
   B.Eng. in Transportation Engineering, College of Transportation Engineering
 
 
-Research interests
+Research Interests
 ======
 
   * Shared transport and logistics systems
