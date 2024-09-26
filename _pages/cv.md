@@ -24,7 +24,7 @@ C: Emerging Technologies</u>*, 153, 104226.
 congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883.
 
 [1] **Zhang, Z.**, Lu. L.*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
-decision making in the biobjective alignment optimization problem of river-crossing tunnels. *<u>Journal
+decision making in the biobjective alignment optimization problem of river-crossing tunnels. <u>Journal
 of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 
@@ -38,7 +38,7 @@ under first-round revision.
 Research Part B: Methodological</u>*, under first-round revision.
 
 [4] **Zhang, Z.**, Zhang, F., Liu, W.*, Yang, H. On the service differentiation for parking sharing. Submitted
-to *<u>Transportation Research Part C: Emerging Technologies</u>*, under first-round revision.
+to <u>Transportation Research Part C: Emerging Technologies</u>*, under first-round revision.
 
 [3] **Zhang, Z.**, Lin, J., Zhang, F.* The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. To be submitted to *<u>Transportation Research Part C: Emerging
@@ -48,7 +48,7 @@ Technologies</u>*.
 submitted to *<u>Transportation Research Part C: Emerging Technologies</u>*.
 
 [1] Gao, Y., Liu, W.*, **Zhang, Z.**, Du, B. Optimizing parking and charging services for electric autonomous
-vehicles considering vehicle-to-grid facilities. Submitted to *<u>Transportation Research Part A:
+vehicles considering vehicle-to-grid facilities. Submitted to <u>Transportation Research Part A:
 Policy and Practice</u>*, under first-round review.
 
 
