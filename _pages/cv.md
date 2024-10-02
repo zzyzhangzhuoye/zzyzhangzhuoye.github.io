@@ -52,10 +52,4 @@ vehicles considering vehicle-to-grid facilities. Submitted to <u>Transportation 
 Policy and Practice</u>*, under first-round review.
 
 
-//Selected Working Papers
-//------
-//[2] **Zhang, Z.**, Liu, Z., Zhang, F., Yin, Y*. Allocation strategies for differentiated demand and supply
-//of ride-sourcing service in the era of electric vehicles. 
 
-//[1] **Zhang, Z.**, Zhang, F.*, Yin, Y. Vertical differentiation in Sharing economy: Economic analysis of the
-//business and individuals sharers.
