@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-* University of Michigan, Ann Arbor, United States, Feb. 2024 - Aug. 2024
+* University of Michigan, Ann Arbor, United States, Feb. 2024 - Jul. 2024
 
   Visiting Student, Department of Civil and Environmental Engineering
 
