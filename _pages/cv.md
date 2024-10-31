@@ -12,21 +12,21 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ======
-[5] **Zhang, Z.**, Zhang, F., Liu, W.*, Yang, H. (2024) On the service differentiation for parking sharing. <u>Transportation Research Part C: Emerging Technologies</u>*. (Forthcoming)
+[5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2024) On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*. (Forthcoming)
 
-[4] **Zhang, Z.**, Zhang, F.* (2024) Optimal operation strategies of an urban crowdshipping platform in
+[4] **Zhang, Z.**, Zhang, F.\* (2024) Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*,
 102992.
 
-[3] **Zhang, Z.**, Liu, W., Zhang, F.* (2023) On the joint network equilibrium of parking and travel
+[3] **Zhang, Z.**, Liu, W., Zhang, F.\* (2023) On the joint network equilibrium of parking and travel
 choices under mixed traffic of shared and private autonomous vehicles. *<u>Transportation Research Part
 C: Emerging Technologies</u>*, 153, 104226.
 
-[2] **Zhang, Z.**, Zhang, F.* (2022) Ride-pooling services with differentiated pooling sizes under endogenous
+[2] **Zhang, Z.**, Zhang, F.\* (2022) Ride-pooling services with differentiated pooling sizes under endogenous
 congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883.
 
-[1] **Zhang, Z.**, Lu. L.*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
-decision making in the biobjective alignment optimization problem of river-crossing tunnels. <u>Journal
+[1] **Zhang, Z.**, Lu. L.\*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
+decision making in the biobjective alignment optimization problem of river-crossing tunnels. *<u>Journal
 of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 
