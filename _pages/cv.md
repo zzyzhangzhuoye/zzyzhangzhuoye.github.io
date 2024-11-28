@@ -13,14 +13,12 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ======
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* Economic analysis of parking, vehicle charging and vehicle-to-grid
-service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*,
-forthcoming.
+service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133..
 
 [5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025) On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915.
 
 [4] **Zhang, Z.**, Zhang, F.\* (2024) Optimal operation strategies of an urban crowdshipping platform in
-asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*,
-102992.
+asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*, 189, 102992.
 
 [3] **Zhang, Z.**, Liu, W., Zhang, F.\* (2023) On the joint network equilibrium of parking and travel
 choices under mixed traffic of shared and private autonomous vehicles. *<u>Transportation Research Part
