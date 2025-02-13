@@ -54,9 +54,7 @@ Conference</u>*, Rome, Italy, 21-26 June 2021.
 layout: archive
 title: "Talks"
 permalink: /talks/
-author_profile: true
-redirect_from:
-  - /resume
+
 ---
 {% include base_path %}
 
