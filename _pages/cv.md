@@ -34,19 +34,21 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 Under Review Papers
 ------
-[4] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? Submitted to *<u>Transportation
-Research Part B: Methodological</u>*, under first-round revision.
+[5] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? Submitted to *<u>Transportation
+Research Part B: Methodological</u>*, under second-round review.
 
-[3] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
-equilibrium and operation decisions. To be submitted to *<u>Transportation Research Part C: Emerging
-Technologies</u>*.
+[4] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
+equilibrium and operation decisions. Submitted to *<u>Transportation Research Part C: Emerging
+Technologies</u>*, under first-round review.
 
-[2] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. To be
+[3] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. To be
 submitted to *<u>Transportation Research Part C: Emerging Technologies</u>*.
+
+[2] Gong, Z., **Zhang, Z.**, Zhang, F.\* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round review.
 
 [1] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. Optimizing parking and charging services for electric autonomous
 vehicles considering vehicle-to-grid facilities. Submitted to *<u>Transportation Research Part A:
-Policy and Practice</u>*, under first-round review.
+Policy and Practice</u>*, under first-round revision.
 
 
 
