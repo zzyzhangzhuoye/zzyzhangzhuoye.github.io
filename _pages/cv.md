@@ -11,7 +11,7 @@ redirect_from:
 You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=5PQtFDIAAAAJ&hl=zh-CN&oi=ao), [Scopus](https://www-scopus-com.eproxy.lib.hku.hk/authid/detail.uri?authorId=57407113300), [Web of Science](https://www.webofscience.com/wos/author/record/LIC-6662-2024), or [ResearchGate](https://www.researchgate.net/profile/Zhuoye-Zhang).
 
 Journal Publications
-======
+------
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* Economic analysis of parking, vehicle charging and vehicle-to-grid
 service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133..
 
