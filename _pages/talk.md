@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Conferences"
+title: ""
 permalink: /conferences/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
-
+Conferences
+------
 [12] **Zhang, Z.**, Zhang, F., Liu, W. (2025) On the parking, charging and vehicle-to-grid choices of electric vehicles. *<u>The 104th Transportation Research Board Annual Meeting (TRB)</u>*, Washington D.C., US, 5-9 January 2025.
 
 [11] Gong, Z., **Zhang, Z.**, Zhang, F. (2024) On the network equilibrium of an integrated air-ground urban transport system. *<u>The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 9-10 December 2024. **(Recipient of Outstanding Student Paper Award of HKSTS, First Prize, with Mr. Zhenwei Gong and Prof. Fangni Zhang)**
