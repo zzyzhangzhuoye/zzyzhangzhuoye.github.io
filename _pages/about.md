@@ -29,12 +29,14 @@ Education
 Research Interests
 ======
 
-  * Shared transport and logistics systems
-
-  * Transport network modeling and optimization
-
-  * Transport economics
-
+  * Transportation network modeling and optimization
+    
+  * Air/Air-ground transportation operations
+    
+  * Shared, automated, electrified transportation and logistics services
+    
+  * Transportation economics
+    
   * Transport/urban data analytics
 
 
