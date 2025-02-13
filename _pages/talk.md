@@ -51,10 +51,6 @@ Kong, 9-10 December 2021.
 with differential pooling sizes. *<u>2021 International Transport Economics Association (ITEA) Annual
 Conference</u>*, Rome, Italy, 21-26 June 2021.
 
-layout: archive
-title: "Talks"
-permalink: /talks/
-
----
-{% include base_path %}
-
+Talks
+------
+ssss
