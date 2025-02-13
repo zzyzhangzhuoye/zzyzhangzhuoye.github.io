@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
 
 Visiting Experience
+------
 
 * University of Michigan, Ann Arbor, United States, Feb. 2024 - Jul. 2024
 
@@ -23,7 +24,8 @@ Visiting Experience
   Supervisor: Prof. Taku Fujiyama
 
 
-## Selected Awards
+Selected Awards
+------
 
 * *<u>Chu Tsun Hong Scholarship for Outstanding Research Achievement</u>* at the Department of Data and Systems Engineering, The University of Hong Kong, 2025.
 
@@ -39,9 +41,11 @@ Visiting Experience
 
 * *<u>Third Prize</u>*: Chinese Post-Graduate Mathematical Contest, 2017. 
 
-* *<u>Second Prize</u>*: Tongji Mathematical Contest in Modeling, 2015. 
+* *<u>Second Prize</u>*: Tongji Mathematical Contest in Modeling, 2015.
 
-## Academic & Professional Services
+
+Academic & Professional Services
+------
 
 * Fellow/Board Member
   
