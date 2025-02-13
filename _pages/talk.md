@@ -50,3 +50,13 @@ Kong, 9-10 December 2021.
 [1] **Zhang, Z.**, Zhang, F. (2021) Economic analysis of the competition between ride-pooling platforms
 with differential pooling sizes. *<u>2021 International Transport Economics Association (ITEA) Annual
 Conference</u>*, Rome, Italy, 21-26 June 2021.
+
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+redirect_from:
+  - /resume
+---
+{% include base_path %}
+
