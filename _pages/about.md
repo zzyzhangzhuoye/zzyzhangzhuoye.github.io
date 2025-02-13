@@ -19,7 +19,7 @@ Education
 
 * Shanghai Jiao Tong University, Shanghai, China
 
-  M.Phil. in Transportation Engineering, School of Naval Architecture, Ocean and Civil Engineering
+  M.Eng. in Transportation Engineering, School of Naval Architecture, Ocean and Civil Engineering
 
 * Tongji University, Shanghai, China
 
