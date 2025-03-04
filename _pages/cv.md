@@ -12,7 +12,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ------
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* Economic analysis of parking, vehicle charging and vehicle-to-grid
-service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133..
+service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133.
 
 [5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025) On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915.
 
