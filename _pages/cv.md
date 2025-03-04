@@ -43,9 +43,9 @@ Technologies</u>*, under first-round review.
 [5] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. To be
 submitted to *<u>Transportation Research Part C: Emerging Technologies</u>*.
 
-[4] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y. \*Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
+[4] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
 
-[3] Gong, Z., **Zhang, Z.**, Zhang, F.* \*On the network equilibrium of an integrated air-ground urban transport system. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
+[3] Gong, Z., **Zhang, Z.**, Zhang, F.\* On the network equilibrium of an integrated air-ground urban transport system. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
 
 [2] Gong, Z., **Zhang, Z.**, Zhang, F.\* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round review.
 
