@@ -54,4 +54,10 @@ vehicles considering vehicle-to-grid facilities. Submitted to *<u>Transportation
 Policy and Practice</u>*, under first-round revision.
 
 
+Working Papers
+------
+[3] **Zhang, Z.**, Liu, Z.\*, Yin, Y., Vignon, D., Zhang, F. Differentiated order allocation to electrify ride-sourcing system. 
 
+[2] **Zhang, Z.**, Zhang, F.\*, Yin, Y. Vertical differentiation in sharing economy: Economic analysis of the business and individuals sharers. 
+
+[1] Wang, Y., **Zhang, Z.**, Li, J., Shen Z.J.M.\* Should mini-electric vehicles be embraced? A perspective from equilibrium analysis.
