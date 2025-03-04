@@ -56,7 +56,7 @@ Policy and Practice</u>*, under first-round revision.
 
 Working Papers
 ------
-[3] **Zhang, Z.**, Liu, Z.\*, Yin, Y., Vignon, D., Zhang, F. Differentiated order allocation to electrify ride-sourcing system. 
+[3] **Zhang, Z.**, Liu, Z.\*, Yin, Y., Vignon, D. A., Zhang, F. Differentiated order allocation to electrify ride-sourcing system. 
 
 [2] **Zhang, Z.**, Zhang, F.\*, Yin, Y. Vertical differentiation in sharing economy: Economic analysis of the business and individuals sharers. 
 
