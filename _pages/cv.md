@@ -41,7 +41,7 @@ equilibrium and operation decisions. Submitted to *<u>Transportation Research Pa
 Technologies</u>*, under first-round review.
 
 [5] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. To be
-submitted to *<u>Transportation Research Part C: Emerging Technologies</u>*.
+submitted to *<u>Transport Economics and Management</u>*.
 
 [4] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
 
