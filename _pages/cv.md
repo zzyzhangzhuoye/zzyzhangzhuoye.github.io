@@ -11,6 +11,9 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+[7] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? *<u>Transportation
+Research Part B: Methodological</u>*, 200, 103305.
+
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* Economic analysis of parking, vehicle charging and vehicle-to-grid
 service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133.
 
@@ -33,9 +36,6 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 Under Review Papers
 ------
-[7] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? Submitted to *<u>Transportation
-Research Part B: Methodological</u>*, under second-round review.
-
 [6] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. Submitted to *<u>Transportation Research Part C: Emerging
 Technologies</u>*, under first-round review.
