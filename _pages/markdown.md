@@ -31,19 +31,17 @@ Selected Awards
 
 * *<u>Chu Tsun Hong Scholarship for Outstanding Research Achievement</u>* at the Department of Data and Systems Engineering, The University of Hong Kong, 2025.
 
-// *<u>Outstanding Student Paper Award First Prize</u>* at the 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), with Mr. Zhenwei Gong (Recipient) and Prof. Fangni Zhang, 2024.
+* *<u>Best Paper Award</u>* at The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China, 2024.
 
-* *<u>Best Paper Award</u>*: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China, 2024.
+* *<u>Nomination Award</u>* at The 13th Qian Xuesen Urban Science Gold Award (Transportation), China, 2023.
 
-* *<u>Nomination Award</u>*: The 13th Qian Xuesen Urban Science Gold Award (Transportation), China, 2023.
-
-* *<u>Best Paper Award</u>*: The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 2023.
+* *<u>Best Paper Award</u>* at The 14th Workshop on Computational Transportation Science (CTS), Shanghai, China, 2023.
 
 * *<u>Postgraduate Scholarship</u>* for four consecutive years, The University of Hong Kong, 2020-2024. 
 
-* *<u>Third Prize</u>*: Chinese Post-Graduate Mathematical Contest, 2017. 
+* *<u>Third Prize</u>* in the Chinese Post-Graduate Mathematical Contest, 2017. 
 
-* *<u>Second Prize</u>*: Tongji Mathematical Contest in Modeling, 2015.
+* *<u>Second Prize</u>* in the Tongji Mathematical Contest in Modeling, 2015.
 
 
 Academic & Professional Services
