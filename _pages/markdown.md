@@ -11,13 +11,13 @@ redirect_from:
 Visiting Experience
 ------
 
-* University of Michigan, Ann Arbor, United States, Feb. 2024 - Jul. 2024
+* University of Michigan, Ann Arbor, United States, Feb. 2024–Jul. 2024
 
   Visiting Student, Department of Civil and Environmental Engineering
 
   Supervisor: Prof. Yafeng Yin
 
-* University College London, London, United Kingdom, Jul. 2019 - Oct. 2019
+* University College London, London, United Kingdom, Jul. 2019–Oct. 2019
 
   Visiting Student, Department of Civil, Environmental and Geomatic Engineering
 
