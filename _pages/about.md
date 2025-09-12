@@ -31,12 +31,15 @@ Education
 Working Experience
 ------
 * Hong Kong University of Science and Technology, Hong Kong, China, Sep. 2025–Present
+* 
   Research Associate, Department of Civil and Environmental Engineering, Supervisor: Prof. Hai Yang
 
-* The University of Hong Kong, Hong Kong, China, Sep. 2024–Sep. 2025} 
+* The University of Hong Kong, Hong Kong, China, Sep. 2024–Sep. 2025
+  
 Postdoctoral Research Fellow, Department of Data and Systems Engineering, Supervisor: Prof. Fangni Zhang
 
 * Research Assistant, Shanghai Jiao Tong University, Shanghai, China, Apr. 2019–Aug. 2020
+  
 Research Assistant, School of Naval Architecture, Ocean and Civil Engineering, Supervisor: Prof. Linjun Lu
 
 Research Interests
