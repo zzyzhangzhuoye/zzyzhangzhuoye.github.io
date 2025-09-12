@@ -27,9 +27,11 @@ Visiting Experience
 Selected Awards
 ------
 
+* *<u>Best Paper Award</u>*: The 16th Workshop on Computational Transportation Science (CTS), Wuhan, China, 2025.
+
 * *<u>Chu Tsun Hong Scholarship for Outstanding Research Achievement</u>* at the Department of Data and Systems Engineering, The University of Hong Kong, 2025.
 
-* *<u>Outstanding Student Paper Award First Prize</u>* at the 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), with Mr. Zhenwei Gong (Recipient) and Prof. Fangni Zhang, 2024.
+// *<u>Outstanding Student Paper Award First Prize</u>* at the 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), with Mr. Zhenwei Gong (Recipient) and Prof. Fangni Zhang, 2024.
 
 * *<u>Best Paper Award</u>*: The 5th Frontier Symposium on Traffic Behavior and Transportation Science (TBTS 2024), Yichang, China, 2024.
 
