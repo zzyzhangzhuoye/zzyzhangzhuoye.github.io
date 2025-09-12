@@ -27,7 +27,7 @@ Visiting Experience
 Selected Awards
 ------
 
-* *<u>Best Paper Award</u>*: The 16th Workshop on Computational Transportation Science (CTS), Wuhan, China, 2025.
+* *<u>Best Paper Award</u>* at The 16th Workshop on Computational Transportation Science (CTS), Wuhan, China, 2025.
 
 * *<u>Chu Tsun Hong Scholarship for Outstanding Research Achievement</u>* at the Department of Data and Systems Engineering, The University of Hong Kong, 2025.
 
