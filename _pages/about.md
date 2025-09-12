@@ -16,7 +16,7 @@ Dr. Zhuoye Zhang is a Research Associate at the Department of Civil and Environm
 Education
 ------
 
-* The University of Hong Kong, Hong Kong, China, 2020-2024
+* The University of Hong Kong, Hong Kong, China, 2020–2024
 
   Ph.D. in Transportation Engineering, Department of Data and Systems Engineering
 
@@ -39,9 +39,6 @@ Working Experience
   
   Postdoctoral Research Fellow, Department of Data and Systems Engineering, Supervisor: Prof. Fangni Zhang
 
-* Research Assistant, Shanghai Jiao Tong University, Shanghai, China, Apr. 2019–Aug. 2020
-  
-  Research Assistant, School of Naval Architecture, Ocean and Civil Engineering, Supervisor: Prof. Linjun Lu
 
 Research Interests
 ------
