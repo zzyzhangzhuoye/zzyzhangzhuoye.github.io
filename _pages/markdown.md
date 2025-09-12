@@ -55,7 +55,7 @@ Academic & Professional Services
 
 * Journal Paper Reviewer
 
-  – Reviewer of Transportation Research Part E, Cities, Transportation Safety and Environment
+  – Reviewer of Transportation Research Part B/E, Cities, Transportation Safety and Environment
 
 * Conference Reviewer
 
