@@ -11,7 +11,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[8] Gao, Y., Liu, W., **Zhang, Z.**, Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 104680.
+[8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 104680.
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? *<u>Transportation
 Research Part B: Methodological</u>*, 200, 103305.
