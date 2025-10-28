@@ -11,6 +11,10 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+[9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
+equilibrium and operation decisions. Submitted to *<u>Transportation Research Part C: Emerging
+Technologies</u>*, forthcoming.
+
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 104680.
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* To park or to share your autonomous vehicle? *<u>Transportation
@@ -38,10 +42,6 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 Under Review Papers
 ------
-[6] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
-equilibrium and operation decisions. Submitted to *<u>Transportation Research Part C: Emerging
-Technologies</u>*, under first-round review.
-
 [5] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. Submitted to *<u>Transport Economics and Management</u>*, under first-round review.
 
 [4] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Submitted to *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, under first-round review.
