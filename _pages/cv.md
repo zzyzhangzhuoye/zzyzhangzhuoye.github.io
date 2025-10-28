@@ -12,7 +12,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 Journal Publications
 ------
 [9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* The emergence of rideshare buddy-pooling platform: dynamic user
-equilibrium and operation decisions. Submitted to *<u>Transportation Research Part C: Emerging
+equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, forthcoming.
 
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025) Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 104680.
