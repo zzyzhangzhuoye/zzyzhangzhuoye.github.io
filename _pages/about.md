@@ -14,19 +14,16 @@ Dr. Zhuoye Zhang is currently a Research Associate in the Department of Civil an
 Working Experience
 ------
 
-* Hong Kong University of Science and Technology, Hong Kong, Sep. 2025–Present
-  
-  Research Associate, Department of Civil and Environmental Engineering
-
+* 2025–present, Research Associate
   Supervisor: [Prof. Hai Yang](https://cehyang.people.ust.hk/)
+  Department of Civil and Environmental Engineering,
+  Hong Kong University of Science and Technology, Hong Kong
 
-* The University of Hong Kong, Hong Kong, Sep. 2024–Aug. 2025
-  
-  Postdoctoral Research Fellow, Department of Data and Systems Engineering
-
+* Sep. 2024–Aug. 2025, Postdoctoral Research Fellow
   Supervisor: [Prof. Fangni Zhang](https://fangnizhang.github.io/)
-
-
+  Department of Data and Systems Engineering
+  The University of Hong Kong, Hong Kong, 
+ 
 Research Interests
 ------
 
