@@ -46,7 +46,6 @@ Visiting Experience
 
   Supervisor: [Prof. Taku Fujiyama](https://profiles.ucl.ac.uk/9077-taku-fujiyama)
 
-
 Selected Awards
 ------
 
