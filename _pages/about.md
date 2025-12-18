@@ -20,7 +20,7 @@ Working Experience
 
 * Sep. 2024–Aug. 2025, **Postdoctoral Research Fellow**, Supervisor: [Prof. Fangni Zhang](https://fangnizhang.github.io/)
   
-  Department of Data and Systems Engineering, The University of Hong Kong, Hong Kong
+  Department of Data and Systems Engineering, The University of Hong Kong
  
 Research Interests
 ------
