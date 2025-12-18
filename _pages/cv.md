@@ -15,6 +15,19 @@ Journal Publications
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427. [🔗](https://orcid.org/0000-0001-9942-891X) 
 
+
+
+[(<img width="563" height="768" alt="b918c3722af3ff44a15c9e808ff90bd0" src="https://github.com/user-attachments/assets/9483c319-3284-4e49-bedd-32ec44b19313" /> (https://orcid.org/0000-0001-9942-891X) )](https://baidu.com)
+
+
+<img width="563" height="768" alt="b918c3722af3ff44a15c9e808ff90bd0" src="https://github.com/user-attachments/assets/9483c319-3284-4e49-bedd-32ec44b19313" /> (https://orcid.org/0000-0001-9942-891X) 
+
+
+
+
+
+
+
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025). Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 201, 104680.
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* (2025). To park or to share your autonomous vehicle? *<u>Transportation
