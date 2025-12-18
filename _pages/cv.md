@@ -19,11 +19,11 @@ Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="ht
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025). Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 201, 104680. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0965856425003118)
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* (2025). To park or to share your autonomous vehicle? *<u>Transportation
-Research Part B: Methodological</u>*, 200, 103305. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261524002571)
+Research Part B: Methodological</u>*, 200, 103305. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261525001547)
 
 
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* (2025). Economic analysis of parking, vehicle charging and vehicle-to-grid
-service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261525001547)
+service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261524002571)
 
 [5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025). On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X24004364)
 
