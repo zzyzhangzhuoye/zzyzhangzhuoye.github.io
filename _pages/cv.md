@@ -28,11 +28,11 @@ service in the era of electric vehicles. *<u>Transportation Research Part B: Met
 [5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025). On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X24004364)
 
 [4] **Zhang, Z.**, Zhang, F.\* (2024). Optimal operation strategies of an urban crowdshipping platform in
-asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*, 189, 102992. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X23002152)
+asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*, 189, 102992. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261524001164)
 
 [3] **Zhang, Z.**, Liu, W., Zhang, F.\* (2023). On the joint network equilibrium of parking and travel
 choices under mixed traffic of shared and private autonomous vehicles. *<u>Transportation Research Part
-C: Emerging Technologies</u>*, 153, 104226. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261525001547)
+C: Emerging Technologies</u>*, 153, 104226. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X23002152)
 
 [2] **Zhang, Z.**, Zhang, F.\* (2022). Ride-pooling services with differentiated pooling sizes under endogenous
 congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X22002960)
