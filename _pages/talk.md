@@ -13,7 +13,6 @@ redirect_from:
 
 [14] Gong, Z., **Zhang, Z.**, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. *<u>The 28th Air Transport Research Society (ATRS) World Conference</u>*, Hong Kong, China, 1–4 July 2025.
 
-
 [13] **Zhang, Z.**, Liu, Z., Yin, Y., Vignon, D., Zhang, F. (2025) Differentiated Order Allocation to Electrify Ride-sourcing System. *<u>The 16th International Conference on Advanced Systems in Public Transport (CASPT)</u>*, Kyoto, Japan, 30 June–4 July 2025.
 
 [12] **Zhang, Z.**, Zhang, F., Liu, W. (2025) On the parking, charging and vehicle-to-grid choices of electric vehicles. *<u>The 104th Transportation Research Board Annual Meeting (TRB)</u>*, Washington D.C., US, 5-9 January 2025.
