@@ -17,7 +17,7 @@ Technologies</u>*, 182, 105427.
 
 
 
-[(<img width="56.3" height="76.8" alt="b918c3722af3ff44a15c9e808ff90bd0" src="https://github.com/user-attachments/assets/9483c319-3284-4e49-bedd-32ec44b19313" />(https://orcid.org/0000-0001-9942-891X) )](https://baidu.com)
+[(<img width="56.3" height="76.8" alt="b918c3722af3ff44a15c9e808ff90bd0" src="https://github.com/user-attachments/assets/9483c319-3284-4e49-bedd-32ec44b19313" />)](https://baidu.com)
 
 
 
