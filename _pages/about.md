@@ -9,8 +9,7 @@ redirect_from:
 
 Summary
 ------
-
-Dr. Zhuoye Zhang is a Research Associate at the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST). Dr. Zhuoye Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including shared and automated transport management, multimodal transportation system modelling and optimization and network modeling and analysis. His research has been published in world-leading journals and conferences in the field, e.g., Transportation Research Part A/B/C, International Symposium of Transportation and Traffic Theory (ISTTT). He also served as a visiting student at University College London in 2019 and at the University of Michigan in 2024, respectively.
+Dr. Zhuoye Zhang is currently a Research Associate in the Department of Civil and Environmental Engineering at The Hong Kong University of Science and Technology (HKUST), working under the supervision of Prof. Hai Yang. Dr. Zhang’s research covers a wide range of fundamental and emerging issues in transportation, including shared and automated transport management, multimodal transportation system modelling and optimization and network modeling and analysis. His research has been published in world-leading journals and conferences in the field, e.g., Transportation Research Part A/B/C, International Symposium of Transportation and Traffic Theory (ISTTT). He also served as a visiting student at University College London in 2019 and at the University of Michigan in 2024, respectively.
 
 
 Education
