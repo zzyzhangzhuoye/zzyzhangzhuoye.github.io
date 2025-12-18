@@ -15,6 +15,10 @@ Journal Publications
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0bae5997-51b4-4452-b0a2-72ab4b8b4d3f"/>](https://baidu.com)
 
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://baidu.com)
+
+
+
 
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025). Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 201, 104680.
 
