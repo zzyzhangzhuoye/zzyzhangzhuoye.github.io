@@ -15,13 +15,6 @@ Journal Publications
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427. [🔗](https://orcid.org/0000-0001-9942-891X) 
 
-[9] <b>Zhang, Z.</b>, Lin, J., Gong, Z., Zhang, F.* (2026). The emergence of rideshare buddy-pooling platform: dynamic user equilibrium and operation decisions. <i><u>Transportation Research Part C: Emerging Technologies</u></i>, 182, 105427. 
-
-
-<a href="https://orcid.org/0000-0001-9942-891X" style="color:#e11d52; text-decoration:underline;">ORCID</a>
-
-
-
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025). Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 201, 104680.
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* (2025). To park or to share your autonomous vehicle? *<u>Transportation
