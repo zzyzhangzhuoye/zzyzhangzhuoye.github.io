@@ -17,9 +17,7 @@ Technologies</u>*, 182, 105427.
 
 
 
-
-
-[<img width="56.3" height="76.8" alt="b918c3722af3ff44a15c9e808ff90bd0" src="https://github.com/user-attachments/assets/9483c319-3284-4e49-bedd-32ec44b19313" />](https://baidu.com)
+[<img width="78.2" height="78.1" alt="image" src="https://github.com/user-attachments/assets/67fd3a7a-c4bd-4e3b-9b1a-919a94c4441d" />](https://baidu.com)
 
 
 
