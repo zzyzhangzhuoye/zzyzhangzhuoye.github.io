@@ -15,7 +15,7 @@ Education
 
   Ph.D. in Transportation Engineering, Department of Data and Systems Engineering
   
-  Supervisor: [Prof. Fangni Zhang](https://fangnizhang.github.io/)
+  Supervisor: [Prof. Fangni Zhang](https://www.dase.hku.hk/people/f-n-zhang)
 
 * Shanghai Jiao Tong University, Shanghai, China
 
