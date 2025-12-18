@@ -42,7 +42,7 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121.
 
 Under Review Papers
 ------
-[6] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. Submitted to *<u>Transport Economics and Management</u>*, under first-round review.
+[6] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. Submitted to *<u>Transport Economics and Management</u>*, under second-round review.
 
 [5] Gong, Z., **Zhang, Z.**, Zhang, F.* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under second-round review.
 
