@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
 [16] **Zhang, Z.**, Zhang, F., Liu, W. (2025) Economic analysis of the vehicle sharing behavior in the era of autonomous vehicles. *<u>The 14th Asia-Pacific Conference on Transportation and the Environment (APTE)</u>*, Hangzhou, China, 9–11 August 2025.
 
 [15] Gong, Z., **Zhang, Z.**, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. *<u>The 16th International Workshop on Computational Transportation Science (CTS2025)</u>*, Wuhan, China, 25–27 July 2025. **(Recipient of Best Paper Award with Dr. Zhenwei Gong and Prof. Fangni Zhang)**
