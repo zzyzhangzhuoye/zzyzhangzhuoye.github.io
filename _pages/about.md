@@ -20,7 +20,7 @@ Working Experience
 
   Supervisor: [Prof. Hai Yang](https://cehyang.people.ust.hk/)
 
-* The University of Hong Kong, Hong Kong, Sep. 2024–Sep. 2025
+* The University of Hong Kong, Hong Kong, Sep. 2024–Aug. 2025
   
   Postdoctoral Research Fellow, Department of Data and Systems Engineering
 
