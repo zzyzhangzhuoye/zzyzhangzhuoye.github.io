@@ -7,13 +7,21 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+[16] **Zhang, Z.**, Zhang, F., Liu, W. (2025) Economic analysis of the vehicle sharing behavior in the era of autonomous vehicles. *<u>The 14th Asia-Pacific Conference on Transportation and the Environment (APTE)</u>*, Hangzhou, China, 9–11 August 2025.
+
+[15] Gong, Z., **Zhang, Z.**, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. *<u>The 16th International Workshop on Computational Transportation Science (CTS2025)</u>*, Wuhan, China, 25–27 July 2025. **(Recipient of Best Paper Award with Dr. Zhenwei Gong and Prof. Fangni Zhang)**
+
+[14] Gong, Z., **Zhang, Z.**, Zhang, F. (2025) Urban logistics system design with truck-drone collaborative delivery. *<u>The 28th Air Transport Research Society (ATRS) World Conference</u>*, Hong Kong, China, 1–4 July 2025.
+
+
+[13] **Zhang, Z.**, Liu, Z., Yin, Y., Vignon, D., Zhang, F. (2025) Differentiated Order Allocation to Electrify Ride-sourcing System. *<u>The 16th International Conference on Advanced Systems in Public Transport (CASPT)</u>*, Kyoto, Japan, 30 June–4 July 2025.
 
 [12] **Zhang, Z.**, Zhang, F., Liu, W. (2025) On the parking, charging and vehicle-to-grid choices of electric vehicles. *<u>The 104th Transportation Research Board Annual Meeting (TRB)</u>*, Washington D.C., US, 5-9 January 2025.
 
-[11] Gong, Z., **Zhang, Z.**, Zhang, F. (2024) On the network equilibrium of an integrated air-ground urban transport system. *<u>The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 9-10 December 2024. **(Recipient of Outstanding Student Paper Award of HKSTS, First Prize, with Mr. Zhenwei Gong and Prof. Fangni Zhang)**
+[11] Gong, Z., **Zhang, Z.**, Zhang, F. (2024) On the network equilibrium of an integrated air-ground urban transport system. *<u>The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 9-10 December 2024. **(Recipient of Outstanding Student Paper Award of HKSTS, First Prize, with Dr. Zhenwei Gong and Prof. Fangni Zhang)**
 
 [10] **Zhang, Z.**, Zhang, F., Liu, W. (2024) To park or to share your autonomous vehicle? *<u>The 5th Frontier
-Symposium on Traffic Behavior and Transportation Science (TBTS)</u>*, Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award)**
+Symposium on Traffic Behavior and Transportation Science (TBTS)</u>*, Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award with Prof. Wei Liu and Prof. Fangni Zhang)**
 
 [9] **Zhang, Z.**, Zhang, F. (2024) Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. *<u> The 25th International Symposium on
@@ -29,7 +37,7 @@ Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 11-12 Dece
 
 [6] **Zhang, Z.**, Zhang, F., Liu, W. (2023) Modeling the vehicle parking, charging and vehicle-to-grid services
 in the era of electric vehicles. *<u>The 14th Workshop on Computational Transportation Science (CTS)</u>*,
-Shanghai, China, 11-14 August 2023. **(Recipient of CTS 2023 Best paper award)**
+Shanghai, China, 11-14 August 2023. **(Recipient of CTS 2023 Best paper award with Prof. Wei Liu and Prof. Fangni Zhang)**
 
 [5] **Zhang, Z.**, Zhang, F. (2023) The three-sided market of shared parking: The operation and market
 equilibrium in the presence of differentiated parking supplies. *<u>The 14th Workshop on Computational
