@@ -8,6 +8,22 @@ redirect_from:
 ---
 {% include base_path %}
 
+Education
+------
+
+* The University of Hong Kong, Hong Kong, China, 2020–2024
+
+  Ph.D. in Transportation Engineering, Department of Data and Systems Engineering
+
+* Shanghai Jiao Tong University, Shanghai, China
+
+  M.Eng. in Transportation Engineering, School of Naval Architecture, Ocean and Civil Engineering
+
+* Tongji University, Shanghai, China
+
+  B.Eng. in Transportation Engineering, College of Transportation Engineering
+
+
 Visiting Experience
 ------
 
