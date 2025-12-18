@@ -15,9 +15,10 @@ Journal Publications
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427.](https://orcid.org/0000-0001-9942-891X)
 
-[9] <b>Zhang, Z.</b>, Lin, J., Gong, Z., Zhang, F.* (2026). The emergence of rideshare buddy-pooling platform: dynamic user equilibrium and operation decisions. <i><u>Transportation Research Part C: Emerging Technologies</u></i>, 182, 105427. <a href="https://orcid.org/0000-0001-9942-891X" style="color:#e11d48; text-decoration:underline;">ORCID</a>
+[9] <b>Zhang, Z.</b>, Lin, J., Gong, Z., Zhang, F.* (2026). The emergence of rideshare buddy-pooling platform: dynamic user equilibrium and operation decisions. <i><u>Transportation Research Part C: Emerging Technologies</u></i>, 182, 105427. 
 
-<a href="https://orcid.org/0000-0001-9942-891X" style="color:#059669; text-decoration:underline;">ORCID</a>
+
+<a href="https://orcid.org/0000-0001-9942-891X" style="color:#e11d52; text-decoration:underline;">ORCID</a>
 
 
 
