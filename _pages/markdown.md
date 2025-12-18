@@ -11,7 +11,7 @@ redirect_from:
 Education
 ------
 
-* The University of Hong Kong, Hong Kong, China
+* The University of Hong Kong, Hong Kong, China, 2020–2024
 
   Ph.D. in Transportation Engineering, Department of Data and Systems Engineering
   
