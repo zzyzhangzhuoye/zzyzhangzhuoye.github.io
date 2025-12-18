@@ -11,9 +11,9 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[9] [**Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: dynamic user
+[9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
-Technologies</u>*, 182, 105427.](https://orcid.org/0000-0001-9942-891X) [🔗](https://orcid.org/0000-0001-9942-891X)
+Technologies</u>*, 182, 105427. [🔗](https://orcid.org/0000-0001-9942-891X) 
 
 [9] <b>Zhang, Z.</b>, Lin, J., Gong, Z., Zhang, F.* (2026). The emergence of rideshare buddy-pooling platform: dynamic user equilibrium and operation decisions. <i><u>Transportation Research Part C: Emerging Technologies</u></i>, 182, 105427. 
 
