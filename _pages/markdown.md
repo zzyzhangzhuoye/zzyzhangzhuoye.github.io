@@ -38,7 +38,7 @@ Visiting Experience
 
   Visiting Student, Department of Civil and Environmental Engineering
 
-  Supervisor: [Prof. Yafeng Yin ](https://cee.engin.umich.edu/people/yin-yafeng/)
+  Supervisor: [Prof. Yafeng Yin](https://cee.engin.umich.edu/people/yin-yafeng/)
 
 * University College London, London, United Kingdom, Jul. 2019–Oct. 2019
 
