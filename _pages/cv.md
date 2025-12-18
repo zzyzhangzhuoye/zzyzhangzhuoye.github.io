@@ -13,9 +13,7 @@ Journal Publications
 ------
 [9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
-Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0bae5997-51b4-4452-b0a2-72ab4b8b4d3f"/>](https://baidu.com)
-
-[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://baidu.com)
+Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0bae5997-51b4-4452-b0a2-72ab4b8b4d3f"/>](https://baidu.com)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://baidu.com)
 
 
 
