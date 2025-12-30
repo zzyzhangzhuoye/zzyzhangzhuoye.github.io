@@ -13,7 +13,7 @@ Journal Publications
 ------
 [10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. *<u>Transport Economics and Management</u>*, forthcoming.
 
-[9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: dynamic user
+[9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: Dynamic user
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X25004310)
 
