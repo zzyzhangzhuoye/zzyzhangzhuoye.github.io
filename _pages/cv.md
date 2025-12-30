@@ -11,6 +11,8 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+[10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. Submitted to *<u>Transport Economics and Management</u>*, forthcoming.
+
 [9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: dynamic user
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
 Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X25004310)
@@ -44,8 +46,6 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img wi
 
 Under Review Papers
 ------
-[6] **Zhang, Z.**, Zhang, F, Liu, W.\* Parking management and operation: A comprehensive review. Submitted to *<u>Transport Economics and Management</u>*, under second-round review.
-
 [5] Gong, Z., **Zhang, Z.**, Zhang, F.* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under second-round review.
 
 [4] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
