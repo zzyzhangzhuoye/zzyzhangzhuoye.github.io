@@ -11,37 +11,37 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. *<u>Transport Economics and Management</u>*, forthcoming.
+[10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. *<u>Transport Economics and Management</u>*, forthcoming. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.team.2025.12.001)
 
 [9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: Dynamic user
 equilibrium and operation decisions. *<u>Transportation Research Part C: Emerging
-Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X25004310)
+Technologies</u>*, 182, 105427. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trc.2025.105427)
 
 
 [8] Gao, Y., Liu, W.\*, **Zhang, Z.**, Du, B. (2025). Managing parking and charging services for electric autonomous vehicles considering vehicle-to-grid facilities. *<u>Transportation Research Part A: Policy and Practice</u>*, 201, 104680. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tra.2025.104680)
 
 [7] **Zhang, Z.**, Liu, W., Zhang, F.\* (2025). To park or to share your autonomous vehicle? *<u>Transportation
-Research Part B: Methodological</u>*, 200, 103305. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261525001547)
+Research Part B: Methodological</u>*, 200, 103305. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trb.2025.103305)
 
 
 [6] **Zhang, Z.**, Zhang, F., Liu, W.\* (2025). Economic analysis of parking, vehicle charging and vehicle-to-grid
-service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261524002571)
+service in the era of electric vehicles. *<u>Transportation Research Part B: Methodological</u>*, 191, 103133. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trb.2024.103133)
 
-[5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025). On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X24004364)
+[5] **Zhang, Z.**, Zhang, F., Liu, W.\*, Yang, H. (2025). On the service differentiation for parking sharing. *<u>Transportation Research Part C: Emerging Technologies</u>*, 170, 104915. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trc.2024.104915)
 
 [4] **Zhang, Z.**, Zhang, F.\* (2024). Optimal operation strategies of an urban crowdshipping platform in
-asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*, 189, 102992. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0191261524001164)
+asset-light, asset-medium, or asset-heavy business format. *<u>Transportation Research Part B: Methodological</u>*, 189, 102992. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trb.2024.102992)
 
 [3] **Zhang, Z.**, Liu, W., Zhang, F.\* (2023). On the joint network equilibrium of parking and travel
 choices under mixed traffic of shared and private autonomous vehicles. *<u>Transportation Research Part
-C: Emerging Technologies</u>*, 153, 104226. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X23002152)
+C: Emerging Technologies</u>*, 153, 104226. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trc.2023.104226)
 
 [2] **Zhang, Z.**, Zhang, F.\* (2022). Ride-pooling services with differentiated pooling sizes under endogenous
-congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S0968090X22002960)
+congestion effect. *<u>Transportation Research Part C: Emerging Technologies</u>*, 144, 103883. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.trc.2022.103883)
 
 [1] **Zhang, Z.**, Lu. L.\*, Zhu, L., Zhang, W., Yang, J. (2020). Preference information incorporation for
 decision making in the biobjective alignment optimization problem of river-crossing tunnels. *<u>Journal
-of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://ascelibrary.org/doi/10.1061/JTEPBS.0000443)
+of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1061/JTEPBS.0000443)
 
 
 Under Review Papers
