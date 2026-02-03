@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=5PQtFDIAAAAJ&hl=zh-CN&oi=ao), [Scopus](https://www-scopus-com.eproxy.lib.hku.hk/authid/detail.uri?authorId=57407113300), [ORCID](https://orcid.org/0000-0001-9942-891X), [Web of Science](https://www.webofscience.com/wos/author/record/LIC-6662-2024), or [ResearchGate](https://www.researchgate.net/profile/Zhuoye-Zhang).
+You can also find my publication profiles on [Google Scholar](https://scholar.google.com/citations?user=5PQtFDIAAAAJ&hl=zh-CN&oi=ao), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57407113300), [ORCID](https://orcid.org/0000-0001-9942-891X), [Web of Science](https://www.webofscience.com/wos/author/record/LIC-6662-2024), or [ResearchGate](https://www.researchgate.net/profile/Zhuoye-Zhang).
 
 Journal Publications
 ------
