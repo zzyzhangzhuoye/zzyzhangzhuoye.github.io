@@ -11,6 +11,8 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+[11] Wang, Y., **Zhang, Z.**, Yang, J., Li, J., Shen Z.J.M.\* Should mini-electric vehicles be embraced? A perspective from equilibrium analysis. Submitted to *<u>Transportation Research Part E: Logistics and Transportation Review</u>*.
+
 [10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. *<u>Transport Economics and Management</u>*, 4, 14-37. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.team.2025.12.001)
 
 [9] **Zhang, Z.**, Lin, J., Gong, Z., Zhang, F.\* (2026). The emergence of rideshare buddy-pooling platform: Dynamic user
@@ -55,7 +57,7 @@ Under Review Papers
 [2] Gong, Z., **Zhang, Z.**, Zhang, F.\* On the network equilibrium of an integrated air-ground urban transport system. Accepted for presentation at the *<u>26th International Symposium on
 Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part A: Policy and Practice</u>*.
 
-[1] Wang, Y., **Zhang, Z.**, Yang, J., Li, J., Shen Z.J.M.\* Should mini-electric vehicles be embraced? A perspective from equilibrium analysis. Submitted to *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, under first-round review.
+
 
 
 Working Papers
