@@ -48,13 +48,13 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img wi
 
 Under Review Papers
 ------
-[5] Gong, Z., **Zhang, Z.**, Zhang, F.* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under second-round review.
+[4] Gong, Z., **Zhang, Z.**, Zhang, F.* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under second-round review.
 
-[4] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
+[3] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
 
-[3] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Accepted for presentation at the *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part E: Logistics and Transportation Review</u>*.
+[2] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Accepted for presentation at the *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part E: Logistics and Transportation Review</u>*.
 
-[2] Gong, Z., **Zhang, Z.**, Zhang, F.\* On the network equilibrium of an integrated air-ground urban transport system. Accepted for presentation at the *<u>26th International Symposium on
+[1] Gong, Z., **Zhang, Z.**, Zhang, F.\* On the network equilibrium of an integrated air-ground urban transport system. Accepted for presentation at the *<u>26th International Symposium on
 Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part A: Policy and Practice</u>*.
 
 
