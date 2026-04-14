@@ -14,7 +14,7 @@ Dr. Zhuoye Zhang is currently a Research Assistant Professor in the Department o
  
 Working Experience
 ------
-* Mar. 2026–present, **Research Assistant Professor**, 
+* Mar. 2026–Present, **Research Assistant Professor**
   
   Department of Aeronautical and Aviation Engineering,
 
