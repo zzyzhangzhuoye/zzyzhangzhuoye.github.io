@@ -11,6 +11,10 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
+[12] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y.* (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>\uline{Transportation Research Part E: Logistics and Transportation Review</u>*, 213, 105054. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S1366554526003935)
+
+Wang, Y., **Zhang, Z.**, Yang, J., Li, J., Shen Z.J.M.\* (2026). Should mini-electric vehicles be embraced? A perspective from equilibrium analysis. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 209, 104755. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tre.2026.104755)
+
 [11] Wang, Y., **Zhang, Z.**, Yang, J., Li, J., Shen Z.J.M.\* (2026). Should mini-electric vehicles be embraced? A perspective from equilibrium analysis. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 209, 104755. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tre.2026.104755)
 
 [10] **Zhang, Z.**, Zhang, F, Liu, W.\* (2026). Parking management and operation: A comprehensive review. *<u>Transport Economics and Management</u>*, 4, 14-37. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.team.2025.12.001)
