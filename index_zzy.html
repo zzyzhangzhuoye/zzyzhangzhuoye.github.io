@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yimo Yan Homepage</title>
+
+<style>
+
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+.item-header .location {
+    font-style: italic;
+    color: #666;
+    font-weight: 500;
+}
+
+.item {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.item img.logo {
+    height: 70px;
+    margin-top: 5px;
+}
+
+.item-text {
+    flex: 1;
+}
+
+:root {
+    --primary: #8b3a3a;        /* accent color */
+    --secondary: #f5f2ee;      /* background */
+    --card: #ffffff;
+    --text: #333;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: var(--secondary);
+    color: var(--text);
+}
+
+/* ================= NAVIGATION ================= */
+
+nav {
+    background: white;
+    padding: 15px 40px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #ddd;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: var(--primary);
+    font-weight: 500;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ================= LAYOUT ================= */
+
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+/* LEFT PROFILE PANEL */
+
+.sidebar {
+    width: 280px;
+    padding-right: 30px;
+}
+
+.sidebar img {
+    width: 200px;
+    border-radius: 8px;   /* rectangle instead of circle */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.sidebar h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.sidebar a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* RIGHT CONTENT */
+
+.content {
+    flex: 1;
+}
+
+.section {
+    background: var(--card);
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.section h2 {
+    margin-top: 0;
+    border-left: 4px solid var(--primary);
+    padding-left: 10px;
+    color: var(--primary);
+}
+
+.logo {
+    height: 50px;
+    margin-top: 10px;
+}
+
+.paper-img {
+    max-height: 240px;          /* ✅ fixed equal height */
+    width: auto;            /* ✅ keep aspect ratio */
+    max-width: 100%;        /* ✅ responsive */
+    object-fit: contain;    /* ✅ no distortion */
+    display: block;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+
+strong {
+    color: var(--primary);
+}
+
+@media (max-width: 900px) {
+
+    .container {
+        flex-direction: column;
+        padding: 20px 15px;
+    }
+
+    /* ✅ 让 sidebar 成为第一个 section */
+    .sidebar {
+        width: 100%;
+        padding: 0;
+        margin-bottom: 25px;
+        text-align: center;
+        order: -1;
+    }
+
+    /* ✅ 让内容在下面 */
+    .content {
+        width: 100%;
+    }
+
+    /* ✅ 图片更自然 */
+    .sidebar img {
+        width: 160px;
+        margin-bottom: 15px;
+    }
+
+    .sidebar h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .sidebar p {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+
+    /* ✅ About section 看起来更像独立块 */
+    .section {
+        padding: 22px;
+    }
+
+    /* ✅ Experience 等条目改成上下排 */
+    .item {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .item img.logo {
+        height: 45px;
+    }
+
+}
+@media (max-width: 900px) {
+
+    body {
+        background: #f7f5f3;
+    }
+
+    .section {
+        box-shadow: none;
+        margin-bottom: 20px;
+    }
+
+}
+p {
+    line-height: 1.7;
+}
+.section {
+    transition: transform 0.2s ease;
+}
+
+.section:hover {
+    transform: translateY(-3px);
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- ================= NAV BAR ================= -->
+
+<nav>
+<a href="#experience" 
+data-en="Experience" 
+data-zh="工作经历">Experience</a>
+
+<a href="#education" 
+data-en="Education" 
+data-zh="教育背景">Education</a>
+
+<a href="#publications" 
+data-en="Publications" 
+data-zh="论文">Publications</a>
+
+<a href="#service" 
+data-en="Professional Service" 
+data-zh="学术服务">Professional Service</a>
+
+<a href="#grants" 
+data-en="Grants" 
+data-zh="经费">Grants</a>
+
+<a href="#teaching" 
+data-en="Teaching" 
+data-zh="教学工作">Teaching</a>
+
+<a href="#recruitment" 
+data-en="Recruitment" 
+data-zh="招生与招聘">Recruitment</a>
+
+<button onclick="toggleLanguage()" 
+data-en="中文 / English" 
+data-zh="English / 中文"
+style="float:right; padding:5px 10px; cursor:pointer;">
+中文 / English
+</button>
+</nav>
+
+<div class="container">
+
+<!-- ================= LEFT PANEL ================= -->
+
+<div class="sidebar">
+
+<img src="personalphoto.JPG">
+
+<h1 
+data-en="Yimo Yan" 
+data-zh="闫以墨">Yimo Yan</h1>
+<span
+data-en="English, Chinese Madarin & Cantonese<br>" 
+data-zh="普粤英<br>">
+English, Chinese Madarin & Cantonese<br>
+</span>
+<span 
+data-en="Email: yyan@aus.edu<br>" 
+data-zh="邮箱: yyan@aus.edu<br>">
+Email: yyan@aus.edu<br>
+</span>
+<a href="https://scholar.google.com/citations?user=KCIlRlMAAAAJ&hl=en" target="_blank" 
+data-en="Google Scholar<br>" 
+data-zh="谷歌学术<br>">Google Scholar<br></a>
+<span 
+data-en="Scopus ID: 57673562500<br>" 
+data-zh="Scopus 编号：57673562500<br>">Scopus ID: 57673562500<br></span>
+<span 
+data-en="ORCID: 0000-0001-8669-4565" 
+data-zh="ORCID 编号：0000-0001-8669-4565">ORCID: 0000-0001-8669-4565</span>
+<span 
+data-en="Engineering and Science Building, American University of Sharjah, University City, Sharjah, UAE" 
+data-zh="中东 阿拉伯联合酋长国 沙迦酋长国大学城 沙迦美国大学 工程与科学大楼">Engineering and Science Building, American University of Sharjah, University City, Sharjah, UAE</span>
+</p>
+
+</div>
+
+<!-- ================= RIGHT CONTENT ================= -->
+
+<div class="content">
+<div class="section" id="about">
+<h2 data-en="About Me" data-zh="基本信息">About Me</h2>
+
+<p 
+data-en="Hi, my name is Yimo Yan. I am an Assistant Professor at the American University of Sharjah, United Arab Emirates. My research focuses on data analytics, optimization, and sequential decision-making methods for transportation, logistics, and supply chain systems. I am particularly interested in integrating learning and operations research approaches to improve efficiency and service quality in urban mobility, supply chain and healthcare operations."
+data-zh="闫以墨，现任(中东)阿拉伯联合酋长国沙迦美国大学工业工程系助理教授。主要从事数据分析、优化方法与序贯决策研究，面向交通、物流与供应链系统的运营管理与效率提升。重点关注学习与优化方法的结合，致力于提升城市交通，供应链与医疗服务等领域的运行效率与服务质量。">
+Hi, my name is Yimo Yan. I am an Assistant Professor at the American University of Sharjah, United Arab Emirates. My research focuses on data analytics, optimization, and sequential decision-making methods for transportation, logistics, and supply chain systems. I am particularly interested in integrating learning and operations research approaches to improve efficiency and service quality in urban mobility, supply chain and healthcare operations.
+</p>
+
+<p 
+data-en="My work has been published in leading journals including Information Fusion, Transportation Research Part series, International Journal of Production Research, and Health Care Management Science. I received my Ph.D. from The University of Hong Kong, where I was advised by Prof. Yong-Hong Kuo. I welcome collaboration opportunities in data-driven operations management, transportation systems analysis, and quantitative decision modelling."
+data-zh="博士毕业于香港大学工业工程专业，师从郭永鸿教授。研究成果发表于Information Fusion、Transportation Research Part系列、International Journal of Production Research、Health Care Management Science等国际期刊。欢迎在数据驱动运营管理、交通系统分析及定量决策建模等方向开展合作研究。">
+My work has been published in leading journals including <em>Information Fusion</em>, <em>Transportation Research Part series</em>, <em>International Journal of Production Research</em>, and <em>Health Care Management Science</em>. I received my Ph.D. from The University of Hong Kong, where I was advised by Prof. Yong-Hong Kuo. I welcome collaboration opportunities in data-driven operations management, transportation systems analysis, and quantitative decision modelling.
+</p>
+
+</div>
+<div class="section" id="experience">
+<h2 data-en="Experience" data-zh="工作经历">Experience</h2>
+
+<div class="item">
+    <img src="AUS_logo.png" class="logo">
+    <div class="item-text">
+        <div class="item-header">
+        <strong 
+        data-en="American University of Sharjah" 
+        data-zh="沙迦美国大学">American University of Sharjah</strong>
+        <span class="location" 
+        data-en="United Arab Emirates" 
+        data-zh="阿拉伯联合酋长国,沙迦酋长国">Sharjah Emirate, United Arab Emirates</span>
+    </div>
+        <p 
+        data-en="Department of Industrial Engineering<br>Assistant Professor<br>Sep 2026 – Now"
+        data-zh="工业工程系<br>助理教授<br>2026年9月 – 至今">
+        <br>
+        Department of Industrial Engineering<br>
+        Assistant Professor<br>
+        Sep 2026 – Now
+        </p>
+    </div>
+</div>
+
+</div>
+
+<div class="section" id="education">
+<h2 data-en="Education" data-zh="教育背景">Education</h2>
+
+<div class="item">
+    <img src="HKULogo.png" class="logo">
+    <div class="item-text">
+        <div class="item-header">
+        <strong 
+        data-en="The University of Hong Kong" 
+        data-zh="香港大学">The University of Hong Kong</strong>
+        <span class="location" 
+        data-en="Hong Kong SAR of China" 
+        data-zh="中国香港特别行政区">Hong Kong SAR of China</span>
+    </div>
+        <p 
+        data-en="University Research Committee Postdoctoral Fellowship<br>Oct 2025 – Aug 2026<br>Supervisor: Prof. Yong-Hong Kuo"
+        data-zh="大学研究委员会博士后奖学金<br>2025年10月 – 2026年8月<br>导师：郭永鸿教授">
+        University Research Committee Postdoctoral Fellowship<br>
+        Oct 2025 – Aug 2026<br>
+        Supervisor: Prof. Yong-Hong Kuo
+        </p>
+    </div>
+</div>
+
+<div class="item">
+    <img src="HKULogo.png" class="logo">
+    <div class="item-text">
+        <div class="item-header">
+        <strong 
+        data-en="The University of Hong Kong" 
+        data-zh="香港大学">The University of Hong Kong</strong>
+        <span class="location" 
+        data-en="Hong Kong SAR of China" 
+        data-zh="中国香港特别行政区">Hong Kong SAR of China</span>
+    </div>
+        <p 
+        data-en="Doctor of Philosophy in Industrial and Manufacturing Engineering<br>Sep 2020 – Sep 2025<br>Supervisor: Prof. Yong-Hong Kuo"
+        data-zh="工业及制造系统工程系(现已更名为数据及系统工程)<br> 哲学博士<br>2020年9月 – 2025年9月<br>导师：郭永鸿教授">
+        Doctor of Philosophy in Industrial Engineering<br>
+        Sep 2020 – Sep 2025<br>
+        Supervisor: Prof. Yong-Hong Kuo
+        </p>
+    </div>
+</div>
+
+<div class="item">
+    <img src="UICLogo.jpg" class="logo">
+    <div class="item-text">
+        <div class="item-header">
+        <strong 
+        data-en="University of Illinois at Chicago" 
+        data-zh="伊利诺伊大学芝加哥分校">University of Illinois at Chicago</strong>
+        <span class="location" 
+        data-en="Chicago, Illinois, United States" 
+        data-zh="美国伊利诺伊州芝加哥">Chicago, Illinois, United States</span>
+    </div>
+        <p 
+        data-en="Visiting Scholar, Department of Civil Engineering<br>Exchange Experience<br>2024<br>Host: Prof. Zou Bo"
+        data-zh="土木工程系<br>访问学者（交流经历）<br>2024年<br>合作导师：邹博教授">
+        Visiting Scholar, Department of Civil Engineering<br>
+        Exchange Experience<br>
+        2024<br>
+        Host: Prof. Zou Bo
+        </p>
+    </div>
+</div>
+
+<div class="item">
+    <img src="Imperial1.png" class="logo">
+    <div class="item-text">
+        <div class="item-header">
+        <strong 
+        data-en="Imperial College of Science, Technology and Medicine" 
+        data-zh="帝国理工学院">Imperial College of Science, Technology and Medicine</strong>
+        <span class="location" 
+        data-en="London, United Kingdom" 
+        data-zh="英国伦敦">London, United Kingdom</span>
+    </div>
+        <p 
+        data-en="Undergraduate Master of Engineering in Civil and Environmental Engineering<br>Sep 2016 – Jun 2020<br>Thesis Supervisor: Prof. Panagiotis Angeloudis"
+        data-zh="土木与环境工程<br>工学<br>本科型硕士<br>2016年9月 – 2020年6月<br>论文导师：Panagiotis Angeloudis教授">
+        <br>
+        Undergraduate Master of Engineering in Civil and Environmental Engineering<br>
+        Sep 2016 – Jun 2020<br>
+        Thesis Supervisor: Prof. Panagiotis Angeloudis
+        </p>
+    </div>
+</div>
+
+</div>
+
+<div class="section" id="publications">
+<h2 data-en="Publications" data-zh="论文">Publications</h2>
+    
+<img src="ResearchPipeline.png" class="paper-img">
+<p>
+Yan, Y., Zou, B., Tulabandhula, T. & Kuo, Y. H. (2026).
+Event-driven policy optimization for dynamic ambulance dispatch: An attention-based reinforcement learning approach.
+Transportation Research Part E.
+</p>
+<p>
+Yan, Y., et al. (2026).
+Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities.
+Information Fusion.
+</p>
+<p>
+Yan, Y., Cui, S., Liu, J., Zhao, Y., Zhou, B., & Kuo, Y. H. (2024). Multimodal Fusion for Large-Scale Traffic Prediction with Heterogeneous
+Retentive Networks. Information Fusion, 114, 102695.
+</p>
+<img src="Inffus.png" class="paper-img">
+<p>
+Yan, Y., Wen, H., Deng, Y., Chow, A. H., Wu, Q., & Kuo, Y. H. (2024). A mixed-integer programming-based Q-learning approach for electric
+bus scheduling with multiple termini and service routes. Transportation Research Part C: Emerging Technologies, 162, 104570.
+</p>
+<img src="Bus.png" class="paper-img">
+<p>
+Yan, Y., Deng, Y., Cui, S., Kuo, Y. H., Chow, A. H., & Ying, C. (2023). A policy gradient approach to solving dynamic assignment problem for
+on-site service delivery. Transportation Research Part E: Logistics and Transportation Review, 178, 103260.
+</p>
+<p>
+Yan, Y., Chow, A. H., Ho, C. P., Kuo, Y. H., Wu, Q., & Ying, C. (2022). Reinforcement learning for logistics and supply chain management:
+Methodologies, state of the art, and future opportunities. Transportation Research Part E: Logistics and Transportation Review, 162, 102712.
+</p>
+<p>
+Wu, Q., Han, J., Yan, Y., Kuo, Y. H., & Shen, Z. J. M. (2025). Reinforcement learning for healthcare operations management: methodological
+framework, recent developments, and future research directions. Health Care Management Science, 28(2), 298.
+</p>
+<p>
+Kang, Y., Wang, R., Qin, Z., Yang, P., & Yan, Y. (2025). Warehouses with heterogeneous robots collaboration: operational policies and
+performance analysis. International Journal of Production Research, 1-29.
+</p>
+<img src="Warehouse2.png" class="paper-img">
+<p>
+Deng, Y., Chow, A. H., Yan, Y., Su, Z., Zhou, Z., & Kuo, Y. H. (2024). Hierarchical production control and distribution planning under retail
+uncertainty with reinforcement learning. International Journal of Production Research, 1-19.
+</p>
+<p>
+Ying, C., Chow, A. H., Yan, Y., Kuo, Y. H., & Wang, S. (2024). Adaptive rescheduling of rail transit services with short-turnings under
+disruptions via a multi-agent deep reinforcement learning approach. Transportation Research Part B: Methodological, 188, 103067.
+</p>
+<p>
+Deng, Y., Yan, Y., Chow, A. H., Zhou, Z., & Kuo, Y. H. (2024). A proximal policy optimization approach for food delivery problem with
+reassignment due to order cancellation. Expert Systems with Applications, 125045.
+</p>
+<p>
+Kuo, Y. H., Leung, J. M., & Yan, Y. (2023). Public transport for smart cities: Recent innovations and future challenges. European Journal of
+Operational Research, 306(3), 1001-1026.
+</p>
+
+<img src="Metro.png" class="paper-img">
+<h3 data-en="Submitted Research" data-zh="在审论文">Submitted Research</h3>
+<img src="moe.png" class="paper-img">
+<p>
+Cui, S., Shen, S., Yan, Y., et al. (2026).
+TransMoE: Multimodal Traffic Prediction with Large Language Model and Mixture of Experts.
+Transportation Research Part C: Emerging Technologies. (Minor Revision)
+</p>
+<h3 data-en="Ongoing Research" data-zh="进行中的研究">Ongoing Research</h3>
+<p>
+Structure-Informed Data-Driven Lateral Transshipment Policy for Multi-Retailer System.
+</p>
+<img src="Lateral.png" class="paper-img">
+<p>
+Aggregate While Searching: Online Partial-Trajectory Aggregation for Long-Horizon LLM Search Agents
+</p>
+
+
+</div>
+<div class="section" id="service">
+<!-- ================= PROFESSIONAL SERVICE ================= -->
+<h2 data-en="Professional Service" data-zh="学术服务">Professional Service</h2>
+<h3 data-en="Supervision of Master’s Dissertation" data-zh="硕士论文指导">Supervision of Master’s Dissertation</h3>
+<p>Multiple master dissertations in reinforcement learning, warehouse systems, supply chain LLM systems, and ambulance dispatch optimization.</p>
+<h3 data-en="Journal Reviewer" data-zh="期刊审稿人">Journal Reviewer</h3>
+<p>
+Transportation Research Part E;
+European Journal of Operational Research;
+International Journal of Production Research;
+PLOS One.
+</p>
+<h3 data-en="Society Participation" data-zh="学术组织参与">Student Helper & Society Participation</h3>
+<p>
+Hong Kong Society for Transportation Studies;
+HKU Institute of Transport Studies.
+</p>
+
+</div>
+
+<div class="section" id="grants">
+<h2 data-en="Grants" data-zh="经费">Grants</h2>
+</div>
+
+<div class="section" id="teaching">
+<h2 data-en="Teaching" data-zh="教学工作">Teaching</h2>
+<p>
+INE 315 Programming Applications for Industrial Engineering
+</p>
+</div>
+
+<div class="section" id="recruitment">
+<h2 data-en="Recruitment" data-zh="招生与招聘">Recruitment</h2>
+</div>
+
+</div>
+</div>
+
+<script>
+let currentLang = "en";
+
+function toggleLanguage() {
+    const elements = document.querySelectorAll("[data-en]");
+    currentLang = currentLang === "en" ? "zh" : "en";
+
+    elements.forEach(el => {
+        const newText = el.getAttribute("data-" + currentLang);
+
+        // 关键修复：支持 <br> 等 HTML 标签
+        if (newText.includes("<br>")) {
+            el.innerHTML = newText;
+        } else {
+            el.textContent = newText;
+        }
+    });
+}
+</script>
+
+</body>
+</html>
