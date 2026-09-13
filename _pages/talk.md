@@ -7,10 +7,17 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+[20] Shi, Z., **Zhang, Z.**, Huang, J., Zhou, B., Yang, H. Estimating urban air mobility acceptance boundaries under latent traveler heterogeneity. *<u>The 17th Workshop on Computational Transportation Science (CTS)</u>*, Changsha, China, 7–9 August 2026.**(Recipient of Best Paper Award})**
+
+[19] Gong, Z., **Zhang, Z.**, Zhang, F. When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation networks. *<u>The 26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, Munich, Germany, 25–27 July 2026.
+
+[18] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y. (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>The 26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, Munich, Germany, 25–27 July 2026.
+
+[17] Zhou, B., **Zhang, Z.**, Lee, E.\*, Yang, H. Equilibrium and Cannibalization in Dual-Mode Delivery Platforms. *<u>The 29th Air Transport Research Society World Conference (ATRS2026)</u>*, Beijing, China, 1–4 July 2026.
 
 [16] **Zhang, Z.**, Zhang, F., Liu, W. (2025). Economic analysis of the vehicle sharing behavior in the era of autonomous vehicles. *<u>The 14th Asia-Pacific Conference on Transportation and the Environment (APTE)</u>*, Hangzhou, China, 9–11 August 2025.
 
-[15] Gong, Z., **Zhang, Z.**, Zhang, F. (2025). Urban logistics system design with truck-drone collaborative delivery. *<u>The 16th International Workshop on Computational Transportation Science (CTS2025)</u>*, Wuhan, China, 25–27 July 2025. **(Recipient of Best Paper Award with Dr. Zhenwei Gong and Prof. Fangni Zhang)**
+[15] Gong, Z., **Zhang, Z.**, Zhang, F. (2025). Urban logistics system design with truck-drone collaborative delivery. *<u>The 16th International Workshop on Computational Transportation Science (CTS2025)</u>*, Wuhan, China, 25–27 July 2025. **(Recipient of Best Paper Award)**
 
 [14] Gong, Z., **Zhang, Z.**, Zhang, F. (2025). Urban logistics system design with truck-drone collaborative delivery. *<u>The 28th Air Transport Research Society (ATRS) World Conference</u>*, Hong Kong, China, 1–4 July 2025.
 
