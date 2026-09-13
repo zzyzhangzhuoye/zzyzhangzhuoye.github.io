@@ -11,7 +11,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[13] Gong, Z., **Zhang, Z.**, Zhang, F.\* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tra.2026.105203))
+[13] Gong, Z., **Zhang, Z.**, Zhang, F.\* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tra.2026.105203)
 
 
 [12] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y.\* (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 213, 105054. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S1366554526003935)
