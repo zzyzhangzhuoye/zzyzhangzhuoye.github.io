@@ -53,7 +53,7 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img wi
 
 Under Review Papers
 ------
-[1] Shi, Z., Zhu, Z.*, **Zhang, Z.**, Huang, J., Yang, H. Learning Traveler-Specific Substitution Structures for Emerging Mobility Choice: A Persona-Conditioned Graph Neural Network. Submitted to *<u>Transportation Research Part B: Methodological</u>*, under first-round review.
+[1] Shi, Z., Zhu, Z.\*, **Zhang, Z.**, Huang, J., Yang, H. Learning Traveler-Specific Substitution Structures for Emerging Mobility Choice: A Persona-Conditioned Graph Neural Network. Submitted to *<u>Transportation Research Part B: Methodological</u>*, under first-round review.
 
 [5] Shi, Z., **Zhang, Z.\***, Huang, J., Zhou, B., Yang, H. Beyond Willingness to Pay: Uncovering Underlying Factors for Urban Air Mobility Consideration and Adoption. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round review.
 
