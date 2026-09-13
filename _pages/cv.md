@@ -63,11 +63,7 @@ Under Review Papers
 
 [2] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
 
-[1] Chen, Z., **Zhang, Z.**, Zhang, F.\* Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies. Submitted to *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, under first-round review.
-
-
-
-
+[1] Chen, Z., **Zhang, Z.**, Zhang, F.\* Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies. Submitted to *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, under first-round revison.
 
 
 
