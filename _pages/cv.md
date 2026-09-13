@@ -11,10 +11,10 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[13] Gong, Z., **Zhang, Z.**, Zhang, F.* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>]([https://www.sciencedirect.com/science/article/pii/S1366554526003935](https://doi.org/10.1016/j.tra.2026.105203))
+[13] Gong, Z., **Zhang, Z.**, Zhang, F.\* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>]([https://www.sciencedirect.com/science/article/pii/S1366554526003935](https://doi.org/10.1016/j.tra.2026.105203))
 
 
-[12] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y.* (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 213, 105054. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S1366554526003935)
+[12] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y.\* (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 213, 105054. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S1366554526003935)
 
 [11] Wang, Y., **Zhang, Z.**, Yang, J., Li, J., Shen Z.J.M.\* (2026). Should mini-electric vehicles be embraced? A perspective from equilibrium analysis. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 209, 104755. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tre.2026.104755)
 
@@ -53,14 +53,21 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img wi
 
 Under Review Papers
 ------
+[1] Shi, Z., Zhu, Z.*, **Zhang, Z.**, Huang, J., Yang, H. Learning Traveler-Specific Substitution Structures for Emerging Mobility Choice: A Persona-Conditioned Graph Neural Network. Submitted to *<u>Transportation Research Part B: Methodological</u>*, under first-round review.
+
+[5] Shi, Z., **Zhang, Z.\***, Huang, J., Zhou, B., Yang, H. Beyond Willingness to Pay: Uncovering Underlying Factors for Urban Air Mobility Consideration and Adoption. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round review.
+
 [4] Gong, Z., **Zhang, Z.**, Zhang, F.* The fleet sizing, dispatching, and pricing strategies for passenger-cargo combination airline under demand uncertainty. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under second-round review.
 
-[3] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
+[3] Gong, Z., **Zhang, Z.**, Zhang, F.* Strategic design of urban logistics system with truck-drone delivery: A continuum approximation approach. Submitted to *<u>Transportation Research Part C: Emerging Technologies</u>*, under first-round review.
 
-[2] Li, M., Lin, X., **Zhang, Z.**, Liu, T., Yin, Y.\* Traffic Congestion and Order Consolidation in Crowdsourced Delivery Services. Accepted for presentation at the *<u>26th International Symposium on Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part E: Logistics and Transportation Review</u>*.
+[2] Zuo, Y., **Zhang, Z.**, Wang, K., Liu, W.\* On the competition between air transport and high-speed rail considering inherent heterogeneous travel mode preferences. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round revision.
 
-[1] Gong, Z., **Zhang, Z.**, Zhang, F.\* On the network equilibrium of an integrated air-ground urban transport system. Accepted for presentation at the *<u>26th International Symposium on
-Transportation and Traffic Theory (ISTTT26)</u>*, and recommended for publication in *<u>Transportation Research Part A: Policy and Practice</u>*.
+[1] Chen, Z., **Zhang, Z.**, Zhang, F.\* Synergize mobility and Vehicle-to-Grid (V2G) services for electric vehicle platforms: Pricing and vehicle dispatching strategies. Submitted to *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, under first-round review.
+
+
+
+
 
 
 
