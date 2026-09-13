@@ -11,7 +11,7 @@ You can also find my publication profiles on [Google Scholar](https://scholar.go
 
 Journal Publications
 ------
-[13] Gong, Z., **Zhang, Z.**, Zhang, F.\* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>]([https://www.sciencedirect.com/science/article/pii/S1366554526003935](https://doi.org/10.1016/j.tra.2026.105203))
+[13] Gong, Z., **Zhang, Z.**, Zhang, F.\* (2026). When air meets ground: Modeling the congestion externalities of urban air mobility in integrated air-ground transportation. *<u>Transportation Research Part A: Policy and Practice</u>*, 213, 105203. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://doi.org/10.1016/j.tra.2026.105203))
 
 
 [12] Li, M., Lin, X., Liu, T., **Zhang, Z.**, Yin, Y.\* (2026). Regulating crowdsourced parcel delivery services with order consolidation and traffic congestion. *<u>Transportation Research Part E: Logistics and Transportation Review</u>*, 213, 105054. [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/20b22062-dd18-4c2c-a2f4-3167eb718aa0"/>](https://www.sciencedirect.com/science/article/pii/S1366554526003935)
@@ -53,7 +53,7 @@ of Transportation Engineering, Part A: Systems</u>*, 146(10), 04020121. [<img wi
 
 Under Review Papers
 ------
-[1] Shi, Z., Zhu, Z.\*, **Zhang, Z.**, Huang, J., Yang, H. Learning Traveler-Specific Substitution Structures for Emerging Mobility Choice: A Persona-Conditioned Graph Neural Network. Submitted to *<u>Transportation Research Part B: Methodological</u>*, under first-round review.
+[6] Shi, Z., Zhu, Z.\*, **Zhang, Z.**, Huang, J., Yang, H. Learning Traveler-Specific Substitution Structures for Emerging Mobility Choice: A Persona-Conditioned Graph Neural Network. Submitted to *<u>Transportation Research Part B: Methodological</u>*, under first-round review.
 
 [5] Shi, Z., **Zhang, Z.\***, Huang, J., Zhou, B., Yang, H. Beyond Willingness to Pay: Uncovering Underlying Factors for Urban Air Mobility Consideration and Adoption. Submitted to *<u>Transportation Research Part A: Policy and Practice</u>*, under first-round review.
 
