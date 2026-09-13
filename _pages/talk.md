@@ -25,10 +25,10 @@ redirect_from:
 
 [12] **Zhang, Z.**, Zhang, F., Liu, W. (2025). On the parking, charging and vehicle-to-grid choices of electric vehicles. *<u>The 104th Transportation Research Board Annual Meeting (TRB)</u>*, Washington D.C., US, 5-9 January 2025.
 
-[11] Gong, Z., **Zhang, Z.**, Zhang, F. (2024). On the network equilibrium of an integrated air-ground urban transport system. *<u>The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 9-10 December 2024. **(Recipient of Outstanding Student Paper Award of HKSTS, First Prize, with Dr. Zhenwei Gong and Prof. Fangni Zhang)**
+[11] Gong, Z., **Zhang, Z.**, Zhang, F. (2024). On the network equilibrium of an integrated air-ground urban transport system. *<u>The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 9-10 December 2024. **(Recipient of Outstanding Student Paper Award)**
 
 [10] **Zhang, Z.**, Zhang, F., Liu, W. (2024). To park or to share your autonomous vehicle? *<u>The 5th Frontier
-Symposium on Traffic Behavior and Transportation Science (TBTS)</u>*, Yichang, China, 2–5 August, 2024. **(Recipient of TBTS 2024 Best Paper Award with Prof. Wei Liu and Prof. Fangni Zhang)**
+Symposium on Traffic Behavior and Transportation Science (TBTS)</u>*, Yichang, China, 2–5 August, 2024. **(Recipient of Best Paper Award)**
 
 [9] **Zhang, Z.**, Zhang, F. (2024). Optimal operation strategies of an urban crowdshipping platform in
 asset-light, asset-medium, or asset-heavy business format. *<u> The 25th International Symposium on
@@ -44,7 +44,7 @@ Hong Kong Society for Transportation Studies (HKSTS)</u>*, Hong Kong, 11-12 Dece
 
 [6] **Zhang, Z.**, Zhang, F., Liu, W. (2023). Modeling the vehicle parking, charging and vehicle-to-grid services
 in the era of electric vehicles. *<u>The 14th Workshop on Computational Transportation Science (CTS)</u>*,
-Shanghai, China, 11-14 August 2023. **(Recipient of CTS 2023 Best paper award with Prof. Wei Liu and Prof. Fangni Zhang)**
+Shanghai, China, 11-14 August 2023. **(Recipient of Best Paper Award)**
 
 [5] **Zhang, Z.**, Zhang, F. (2023). The three-sided market of shared parking: The operation and market
 equilibrium in the presence of differentiated parking supplies. *<u>The 14th Workshop on Computational
@@ -68,4 +68,10 @@ Conference</u>*, Rome, Italy, 21-26 June 2021.
 
 Invited talks
 ------
+[4] Operations and Management of Shared Mobility Services, Eleventh Symposium on Transportation and Data Science, Sun Yat‑sen University, Shenzhen, China, 12 August 2026.
+
+[3] Operations and Management of Integrated Air Transportation Systems, AAE Seminar Series, The Hong Kong Polytechnic University, Hong Kong, 3 March 2026.
+
+[2] Economic analysis of parking, vehicle charging and vehicle-to-grid services in the era of electric vehicles, Tongji University, College of Transportation Engineering, Shanghai, China, 16 January 2025.
+
 [1] Optimal operation strategies of an urban crowdshipping platform in asset-light, asset-medium, or asset-heavy business format. Institute of Transport Studies, The University of Hong Kong, 29 November, 2024.
