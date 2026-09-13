@@ -51,7 +51,8 @@ Teaching Experience
 ------
 At the Hong Kong Polytechnic University, 2026 - Pre
 
-AAE4013
+**AAE4013**
+
 * Aviation Logistics and Supply Chain Informatics
 * Core topics: air cargo logistics, supply chain management, logistics network optimization
 
